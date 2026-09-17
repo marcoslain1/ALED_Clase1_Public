@@ -35,6 +35,8 @@ public class Variables {
 		
 		// Operadores
 		// =, ==, !=, +, -, /, *, %, &&, ||, ++, --, >, < >=, <=, 
+		// == En tipos primitivos compara el valor en sí, pero en tipos de referencia o clases (String, Integer...) compara la dirección de memoria.
+		// En este segundo caso habría que usar .equals().
 		System.out.println(2 * 3);
 		
 		// Condicionales
