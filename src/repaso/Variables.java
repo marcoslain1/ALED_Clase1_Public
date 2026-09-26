@@ -76,7 +76,7 @@ public class Variables {
 		return ++edad;
 	}
 	public static void comer() {
-		System.out.println("Estoy comiendo");
+		System.out.println("Estoy comiendo"); 
 	}
 
 	
