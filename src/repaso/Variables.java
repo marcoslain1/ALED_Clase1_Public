@@ -78,6 +78,6 @@ public class Variables {
 	public static void comer() {
 		System.out.println("Estoy comiendo"); 
 	}
-
+;
 	
 }
