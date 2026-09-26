@@ -75,6 +75,9 @@ public class Variables {
 	public static int cumple(int edad) {
 		return ++edad;
 	}
-	
+	public static void comer() {
+		System.out.println("Estoy comiendo");
+	}
+
 	
 }

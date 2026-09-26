@@ -25,5 +25,6 @@ public class Persona {
 		System.out.println("Hay " + Persona.numPersonas + " personas creadas.");
 
 	}
+	
 
 }
